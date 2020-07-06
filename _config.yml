@@ -15,5 +15,5 @@ defaults:
       values:
         layout: "default"
 
-baseurl: /
+#baseurl: /
 url: https://br0ast.github.io/testjekyll/
