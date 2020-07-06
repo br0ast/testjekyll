@@ -15,4 +15,5 @@ defaults:
       values:
         layout: "default"
 
-root: /
+baseurl: /
+url: https://br0ast.github.io/
